@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * <b><code>Station</code></b>
  * <p/>
- * Description:
+ * Description:站点距离
  * <p/>
  * <b>Creation Time:</b> 2018/7/19 16:40.
  *
